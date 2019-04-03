@@ -1,0 +1,9 @@
+2
+4
+acts
+cast
+cats
+scat
+2
+dog
+god

@@ -1,0 +1,11 @@
+10
+acts
+ball
+cats
+dog
+elephant
+fish
+god
+hand
+scat
+cast
